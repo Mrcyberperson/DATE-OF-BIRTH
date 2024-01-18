@@ -21,7 +21,7 @@ Certainly! Below is a sample GitHub repository description that you can use for 
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/date-of-birth-checker.git`
+1. Clone the repository: `https://github.com/Mrcyberperson/DATE-OF-BIRTH.git`
 2. Open `index.html` in your preferred web browser.
 
 ## Contributing
