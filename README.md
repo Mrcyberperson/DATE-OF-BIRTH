@@ -3,11 +3,7 @@
 
 
 ## 🚀 About
-
-Certainly! Below is a sample GitHub repository description that you can use for your Date of Birth Checker project:
-
 ---
-
 # Date of Birth Checker
 
 📅 A simple web application that checks if a user is eligible based on their date of birth. Utilizes Bootstrap for a clean and responsive user interface.
